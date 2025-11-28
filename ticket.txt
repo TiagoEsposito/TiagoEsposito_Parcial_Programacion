@@ -1,0 +1,8 @@
+=== TICKET DE COMPRA ===
+Nombre producto       Cantidad       Subtotal
+--------------------------------------------
+Monitor Samsung 24    3      $360000.6
+Monitor Samsung 24    1      $120000.2
+Monitor Samsung 24    2      $240000.4
+--------------------------------------
+TOTAL A PAGAR: $720001.2
